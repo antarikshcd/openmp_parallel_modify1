@@ -1,0 +1,9 @@
+&list
+N = 5
+X_start = -1
+X_end = 1
+Y_start = -1
+Y_end = 1
+k_max = 200000
+d = 0.00001
+/
